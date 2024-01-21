@@ -1,7 +1,7 @@
 # Hi there 👋
 <p align="center">
   <a href="https://github.com/NOBODYBOTz-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Ak's_jarvis&font=Fira%20SemiBold&center=true&width=480&height=145&color=ffffff&vCenter=true&pause=1000&size=70" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=NOBODYBOTz&font=Fira%20SemiBold&center=true&width=480&height=145&color=ffffff&vCenter=true&pause=1000&size=70" /></a>
 </p>
 
 <p align="center">
