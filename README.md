@@ -1,11 +1,11 @@
 # Hi there 👋
 <p align="center">
-  <a href="https://github.com/Aksjarvis-typing-svg">
+  <a href="https://github.com/NOBODYBOTz-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Ak's_jarvis&font=Fira%20SemiBold&center=true&width=480&height=145&color=ffffff&vCenter=true&pause=1000&size=70" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aksjarvis-typing-svg">
+  <a href="https://github.com/NOBODYBOTz-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=CODING ONLY FOR FUN&font=Fira%20Code&center=true&width=500&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
@@ -21,10 +21,10 @@
 </p>
 
 ### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/%7BAKsjarvis007%7D/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/%7BNOBODYBOTz%7D/count.svg)
 
 <!--
-**AKsjarvis007/Aksjarvis007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**NOBODYBOTz/NOBODYBOTz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
