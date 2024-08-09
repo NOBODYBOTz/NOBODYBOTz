@@ -13,13 +13,6 @@
  अंतः अस्ति प्रारंभः ॐ
 </p>
 
-## social media❤️
-</p>
-<p align="center">
-<a href="https://instagram.com/avinash_7_3_3?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://telegram.me/avinash_7_3_3"><img alt="replit" src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://youtube.com/@AK733YT?igshid=YmMyMTA2M2Y="><img alt="replit" src="https://img.shields.io/badge/-youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-</p>
-
 ### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/%7BNOBODYBOTz%7D/count.svg)
 
